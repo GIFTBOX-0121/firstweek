@@ -2,8 +2,9 @@
 {
   "eventId": "firstweek-2026-01",
   "enabled": true,
-  "mvUrl": "",
-  "channelUrl": "",
+  "mvUrl": "https://youtu.be/tFTeMdvyfBs?si=5ilFzwkygurH_GPP",
+  "channelUrl": "https://youtube.com/@starglow_bmsg?si=124nlBH1DZfQk-Xq",
+  "youtubeUrl": "https://www.youtube.com/",
   "startAt": "",
   "endAt": ""
 }
